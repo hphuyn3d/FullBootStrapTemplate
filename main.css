@@ -1,0 +1,25 @@
+.jumbotron {
+    background-size: 100%; 100%;
+    background-image: url(img/sittingIce.jpg);
+    background-attachment: fixed;
+    height: 600px;
+} 
+
+.heading-text{
+    color: #0b7a40;
+}
+
+h1, h2, h3, h4 {
+    color: #0b7a40;
+}
+
+#three-column-row {
+     background-size: 100%; 100%;
+    background-image: url(img/traintracks.jpg);
+    background-attachment: fixed;
+    height: 600px;
+}
+
+.highlights{
+    padding: 200px 10px;
+}
